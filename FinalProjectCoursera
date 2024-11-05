@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Coursera Final Project</title>
+</head>
+
+<body>
+    <main>
+        <h1>Most Iconic Italian Formula 1 Racing Teams</h1>
+        <ol>
+            <li>Scuderia Ferrari</li>
+            <li>Alfa Romeo Corse</li>
+            <li>Maserati</li>
+            <li>Minardi F1</li>
+        </ol>
+    </main>
+
+    <h2>Quick Presentation</h2>
+    <h3>Scuderia Ferrari</h3>
+    <p>Scuderia Ferrari, founded in 1929, is the most iconic team racing in Formula 1. The team, from 1950, founding
+        year of Formula 1 championship, has won 16 constructors championships with 15 drivers championships (most by
+        the legendary Michael Schumacher).</p>
+    <p>For Italians, Ferrari is not just a racing team; it is a symbol of national pride and passion. The prancing
+        horse represents the relentless pursuit of excellence and the romantic allure of speed and innovation. Every
+        victory is celebrated with fervor, and every race is a testament to the Italian spirit of determination and
+        love for motorsport.</p>
+    <figure>
+        <img src="https://images.pexels.com/photos/18737972/pexels-photo-18737972/free-photo-of-energia-potenza-veloce-velocita.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+            alt="Ferrari Formula 1 Team" width="400" height="250">
+        <figcaption>Credit: Adriaan Greyling - <a
+                href="https://www.pexels.com/it-it/foto/energia-potenza-veloce-velocita-18737972/">Pexels.com</a>
+        </figcaption>
+    </figure>
+
+    <h3>Alfa Romeo Corse</h3>
+    <p>The team has been founded in 1911 and started to race in Formula 1 in 1950. The team participated in several
+        editions from 1950 to 1987. This team has won the first two editions of the championship, in 1950 with two
+        iconic drivers, the Italian Nino Farina in 1950 and with the Argentine Juan Manuel Fangio in 1951.</p>
+    <p>Alfa Romeo holds a special place in the hearts of Italians as the pioneer of their Formula 1 legacy. The
+        early triumphs of Nino Farina and Juan Manuel Fangio are cherished memories, symbolizing the dawn of Italian
+        dominance in motorsport. Alfa Romeo's legacy is a romantic tale of innovation, speed, and the undying
+        Italian passion for racing.</p>
+    <figure>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Alfa_Romeo_Alfetta_159.jpg" alt="Alfa Romeo Corse"
+            width="400" height="250">
+        <figcaption>Credit: Wikipedia - <a
+                href="https://upload.wikimedia.org/wikipedia/commons/4/41/Alfa_Romeo_Alfetta_159.jpg">
+                Wikimedia website</a>
+        </figcaption>
+    </figure>
+
+    <h3>Maserati Corse</h3>
+    <p>The team has been founded in 1926 and participated in Formula 1 editions from 1950 to 1960. Maserati won two
+        championships both with the driver Juan Manuel Fangio.</p>
+    <p>Maserati's journey in Formula 1 is a story of elegance and excellence. The victories with Juan Manuel Fangio
+        are celebrated as milestones of Italian engineering and racing prowess. For Italians, Maserati embodies the
+        romantic spirit of competition, where every race is a blend of passion, precision, and the pursuit of
+        perfection.</p>
+    <figure>
+        <img src="https://farm9.staticflickr.com/8308/7915502722_44a4a3b62f_z.jpg" alt="Maserati Corse" width="400"
+            height="250">
+        <figcaption>Credit: Bas Bloemsaat - <a href="https://www.flickr.com/photos/basje/7915502722/">
+                Flickr.com</a>
+        </figcaption>
+    </figure>
+
+    <h3>Minardi F1</h3>
+    <p>The Minardi Formula 1 team, founded in 1979 by the passionate Gian Carlo Minardi, was more than just a racing
+        team for Italians; it was a symbol of hope, determination, and national pride. Competing from 1985 to 2005,
+        Minardi participated in 340 Grand Prix races. Though they never claimed a victory or stood on the podium,
+        their spirit and perseverance captured the hearts of many.</p>
+    <p>For Italians, Minardi represented the underdog, the small team that dared to dream big against the giants of
+        the sport. It was a story of resilience, where every race was a testament to their unwavering dedication and
+        love for motorsport. The team’s journey was a romantic saga of passion and grit, embodying the essence of
+        Italian fervor and the relentless pursuit of excellence.</p>
+    <p>Minardi’s legacy lives on in the hearts of fans who admired their courage and the way they brought a touch of
+        Italian romance to the high-speed world of Formula 1. It was a reminder that sometimes, the greatest
+        victories are not measured by trophies, but by the indomitable spirit and the dreams that drive us forward.
+    </p>
+    <figure>
+        <img src="https://3.bp.blogspot.com/-v77zkke-1cY/UVL1Z3EDfRI/AAAAAAAABNY/0SHD1Sx5sY4/s1600/lambof1if2.jpg"
+            alt="Minardi F1" width="400" height="250">
+        <figcaption>Credit: F1DIMENSION.BLOGSPOT.IT - <a href="https://f1dimension.blogspot.com/2017/03/minardi.html">
+                Blogspot.com</a>
+        </figcaption>
+    </figure>
+</body>
+
+</html>
